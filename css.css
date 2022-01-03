@@ -1,0 +1,33 @@
+body{
+    background-color: aliceblue;
+}
+
+.btn-success {
+    background-color: greenyellow;
+    border-radius: 20%;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.btn-danger{
+    background-color: #f61313;
+    border-radius: 20%;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+p{
+    size: 22px;
+    font-family: cursive;
+}
+
+.text-success{
+    font-family: cursive;
+    font-weight: bold;
+    color: #08ad08;
+}
+
+.text-danger{
+    font-family: cursive;
+    font-weight: bold;
+    color: #e71616;
